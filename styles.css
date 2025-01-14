@@ -1,0 +1,32 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    text-align: center;
+    color: blue;
+    font-style: italic;
+}
+
+.navigation-style {
+    text-align: center;
+}
+
+h2 {
+    color: chocolate;
+    text-align: left;
+    font-style: italic;
+    text-decoration: dashed darkorange underline;
+}
+
+.content-style {
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:gold;
+}
+
+.footer-style {
+    color: beige;
+    text-align: center;
+    font-style: italic;
+}
